@@ -135,7 +135,7 @@
     {
       "id": 23,
       "name": "Bernardo",
-      "username": "bebe",
+      "username": "bernardo02",
       "password": "123"
     },
     {
@@ -151,32 +151,29 @@
       "password": "1234"
     }
   ],
-  "message": [],
+  "message": [
+    {
+      "id": "1",
+      "text": " Olá, boa tarde"
+    }
+  ],
   "consultant": [
     {
       "id": 1,
       "name": "Bernardo",
-      "username": "bebe",
+      "username": "bernardo02",
       "password": "123"
     },
     {
       "id": 2,
-      "username": "nan23",
+      "name": "Bernardo",
+      "username": "Ber23",
       "password": "12345"
     },
     {
       "id": 3,
-      "username": "nan23",
-      "password": "12345"
-    },
-    {
-      "id": 4,
-      "username": "nan23",
-      "password": "12345"
-    },
-    {
-      "id": 5,
-      "username": "nan23",
+      "name": "Pablo",
+      "username": "pablo",
       "password": "12345"
     }
   ]
